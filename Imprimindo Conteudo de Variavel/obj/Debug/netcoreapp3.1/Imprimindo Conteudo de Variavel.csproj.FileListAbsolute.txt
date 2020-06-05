@@ -1,0 +1,10 @@
+C:\Users\aalima5\Desktop\Code C#\Imprimindo Conteudo de Variavel\Imprimindo Conteudo de Variavel\bin\Debug\netcoreapp3.1\Imprimindo Conteudo de Variavel.exe
+C:\Users\aalima5\Desktop\Code C#\Imprimindo Conteudo de Variavel\Imprimindo Conteudo de Variavel\bin\Debug\netcoreapp3.1\Imprimindo Conteudo de Variavel.deps.json
+C:\Users\aalima5\Desktop\Code C#\Imprimindo Conteudo de Variavel\Imprimindo Conteudo de Variavel\bin\Debug\netcoreapp3.1\Imprimindo Conteudo de Variavel.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\Imprimindo Conteudo de Variavel\Imprimindo Conteudo de Variavel\bin\Debug\netcoreapp3.1\Imprimindo Conteudo de Variavel.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\Imprimindo Conteudo de Variavel\Imprimindo Conteudo de Variavel\bin\Debug\netcoreapp3.1\Imprimindo Conteudo de Variavel.dll
+C:\Users\aalima5\Desktop\Code C#\Imprimindo Conteudo de Variavel\Imprimindo Conteudo de Variavel\bin\Debug\netcoreapp3.1\Imprimindo Conteudo de Variavel.pdb
+C:\Users\aalima5\Desktop\Code C#\Imprimindo Conteudo de Variavel\Imprimindo Conteudo de Variavel\obj\Debug\netcoreapp3.1\Imprimindo Conteudo de Variavel.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\Imprimindo Conteudo de Variavel\Imprimindo Conteudo de Variavel\obj\Debug\netcoreapp3.1\Imprimindo Conteudo de Variavel.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\Imprimindo Conteudo de Variavel\Imprimindo Conteudo de Variavel\obj\Debug\netcoreapp3.1\Imprimindo Conteudo de Variavel.dll
+C:\Users\aalima5\Desktop\Code C#\Imprimindo Conteudo de Variavel\Imprimindo Conteudo de Variavel\obj\Debug\netcoreapp3.1\Imprimindo Conteudo de Variavel.pdb
